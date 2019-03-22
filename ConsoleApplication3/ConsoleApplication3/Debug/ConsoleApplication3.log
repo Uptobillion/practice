@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+c:\users\wh\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wh\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication3.vcxproj -> C:\Users\wh\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
